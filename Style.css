@@ -1,0 +1,127 @@
+title{
+    font-weight: bolder;
+}
+.navbar{
+    background-color: darkblue;
+}
+.navbar-nav{
+    padding-left: 230px;
+}
+.navbar li{
+    padding-left: 30px;
+}
+.navbar li a{
+    color: white;
+}
+.btn{
+    border-radius: 40px;
+    width: 150px;
+    outline: solid 3px yellow;
+}
+.but{
+    padding-left: 60px;
+}
+.home{
+    background-color: darkblue;
+    display: flex;
+}
+.home .col-md-5{
+    padding-top: 400px;
+    padding-left: 100px;
+}
+.home .col-md-5 h1{
+    color: white;
+    font-size: 50px;
+}
+.home .col-md-5 p{
+    color: white;
+    font-size: 20px;
+}
+.about{
+    background-color: #0dcaf0;
+    padding: 40px;
+}
+.about .tit{
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.about img{
+    width: 100%;
+    height: 70vh;
+}
+.about .card{
+    height: 20vh;
+    background-color: transparent;
+    border: none;
+}
+.about .card .card-text{
+    font-size: 20px;
+}
+.services{
+    padding: 30px;
+    background-color: navajowhite;
+}
+.services .serv{
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.services .sec{
+    text-align: center;
+}
+.services .sect1,.sect2{
+    padding-left: 100px;
+}
+.services img{
+    height: 50vh;
+    width: 100%;
+    position: relative;
+}
+.portfolio .port{
+    text-align: center;
+    color: cornflowerblue;
+}
+.portfolio .sec{
+    text-align: center;
+}
+.portfolio img{
+    padding: 20px;
+    width: 100%;
+    height: 50vh;
+}
+.team{
+    background-color: snow;
+    padding: 20px;
+}
+.team .tit{
+    text-align: center;
+    color: blue;
+}
+.team .sec{
+    text-align: center;
+}
+.team .card-body{
+    text-align: center;
+}
+.contact{
+    background-color: rgb(242 246 249);
+    padding: 20px;
+}
+.contact .tit{
+     text-align: center;
+    color: blue;
+    padding: 8px;
+}
+.contact .sec{
+    text-align: center;
+}
+.contact .card{
+    text-align: center;
+    background-color: white;
+    border: none;
+}
+.contact .form{
+    padding: 40px;
+    background-color: antiquewhite;
+}
